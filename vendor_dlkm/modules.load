@@ -203,6 +203,7 @@ kernel/drivers/hwtracing/stm/stm_console.ko
 kernel/drivers/hwtracing/stm/stm_ftrace.ko
 kernel/sound/usb/snd-usb-audio-qmi.ko
 kernel/sound/soc/codecs/snd-soc-hdmi-codec.ko
+kernel/sound/soc/codecs/snd-soc-tas5805m.ko
 kernel/net/wireless/cfg80211.ko
 kernel/net/mac80211/mac80211.ko
 kernel/net/qrtr/qrtr-smd.ko
